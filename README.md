@@ -78,7 +78,7 @@ cd grok-share-server
 
 ## 使用方法
 
-选车页面访问地址为 http://服务器 ip:8700
+选车页面访问地址为 http://服务器 ip:8800
 
 管理后台地址为 http://服务器 ip:9000/xyhelper/
 

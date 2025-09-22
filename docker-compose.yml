@@ -4,7 +4,7 @@ services:
   backend:
     image: ghcr.io/xyhelper/grok-share-server
     ports:
-      - "8700:8001"
+      - "8800:8001"
     environment:
       - TZ=Asia/Shanghai
       - GROKPROXY=
